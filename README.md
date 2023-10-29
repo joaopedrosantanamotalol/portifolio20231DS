@@ -1,10 +1,7 @@
 # portifolio20231DS
 Arquivos com os prints: [Ibm.zip](https://github.com/joaopedrosantanamotalol/portifolio20231DS/files/13198359/Ibm.zip)
 
-Colaboradores:
-
-e211.mtecdsfatec@etec.sp.gov.br &
-e211.ccdams@etec.sp.gov.br
+Colaboradores: e211.mtecdsfatec@etec.sp.gov.br & e211.ccdams@etec.sp.gov.br
 
 Site:[Projeto Clínica Estética terminado (2).zip](https://github.com/joaopedrosantanamotalol/portifolio20231DS/files/13198785/Projeto.Clinica.Estetica.terminado.2.zip)
 
